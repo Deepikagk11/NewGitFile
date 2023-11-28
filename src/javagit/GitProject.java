@@ -11,5 +11,8 @@ public class GitProject {
 
 
 	}
+	public void add() {
+		System.out.println("new code");
+	}
 
 }
